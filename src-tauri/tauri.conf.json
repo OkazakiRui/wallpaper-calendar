@@ -57,10 +57,16 @@
       {
         "fullscreen": false,
         "height": 600,
-        "resizable": true,
         "title": "Wallpaper Calendar",
-        "width": 800
+        "width": 800,
+        "skipTaskbar": false,
+        "decorations": false,
+        "resizable": false,
+        "focus": false,
+        "transparent": false,
+        "maximized": true
       }
-    ]
+    ],
+    "macOSPrivateApi": true
   }
 }
